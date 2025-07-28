@@ -4,6 +4,9 @@ Welcome to my solution for **Case Study #1: Danny's Diner** from the [8 Week SQL
 
 ---
 
+<img width="812" height="803" alt="image" src="https://github.com/user-attachments/assets/2f950f29-4e61-4338-a9ae-df9710de75d7" />
+
+
 ## 📁 Folder Structure
 
 danny_Case/
