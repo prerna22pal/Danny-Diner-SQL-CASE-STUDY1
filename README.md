@@ -12,7 +12,9 @@ Welcome to my solution for **Case Study #1: Danny's Diner** from the [8 Week SQL
 danny_Case/
 │
 ├── schema.sql # Table creation queries
+
 ├── data.sql # Insert statements for sample data
+
 ├── danny_queries.sql # My SQL solutions for all 10 questions
 
 
